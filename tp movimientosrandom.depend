@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1716351742 source:c:\users\juanma\desktop\programacion laboratorio  librerias codeblock\estructuras\tp stmoviimientos\tp movimientos\tp movimientosrandom\mock.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"movimiento.h"
+
+1716351595 c:\users\juanma\desktop\programacion laboratorio  librerias codeblock\estructuras\tp stmoviimientos\tp movimientos\tp movimientosrandom\movimiento.h
+
+1716351306 source:c:\users\juanma\desktop\programacion laboratorio  librerias codeblock\estructuras\tp stmoviimientos\tp movimientos\tp movimientosrandom\movimiento.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"movimiento.h"
+
